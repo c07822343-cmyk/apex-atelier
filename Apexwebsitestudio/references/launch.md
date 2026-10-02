@@ -1,0 +1,11 @@
+# Launch checklist (Build mode)
+- [ ] JSON-LD passes the Rich Results Test; NAP and hours match GBP exactly
+- [ ] `<title>` and meta description unique per page; canonical; OG image
+- [ ] sitemap.xml and robots.txt (AI crawlers not blocked)
+- [ ] 301 redirects from every old URL (crawl the old site first)
+- [ ] Analytics: `tel:` click, `sms:` click and form-submit events marked as conversions
+- [ ] Forms tested end-to-end (submission reaches the client's inbox); spam honeypot
+- [ ] HTTPS, security headers, favicon, 404 page
+- [ ] GBP website link updated; UTM on the GBP link
+- [ ] Lighthouse mobile ≥ 90 on every category; axe has 0 serious issues
+- [ ] 28-day follow-up: check CWV field data in Search Console, plus calls vs baseline

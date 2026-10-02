@@ -1,0 +1,17 @@
+{
+ "skill_name": "apex-atelier",
+ "evals": [
+  {"id": 1, "name": "hvac-evaluate-then-redesign",
+   "prompt": "got a prospect, Breeze Point Air Conditioning up in Jupiter. their current site is evals/files/breeze-point-old.html (it's rough). do the free website evaluation for them and then build the redesign demo as a single html file I can send them",
+   "expected_output": "evaluation.md with ranked, evidenced leaks + a single-file redesign that uses only facts from the old site, call-first on mobile, distinctive, light-or-justified theme",
+   "files": ["evals/files/breeze-point-old.html"]},
+  {"id": 2, "name": "pest-demo-no-photos",
+   "prompt": "make a demo site for Sunrise Termite & Pest in Port St. Lucie FL. family owned since 2006, phone (772) 555-0148. they do termite tenting, lawn & ornamental spraying, and rodent exclusion. they don't have any photos yet. one html file pls",
+   "expected_output": "single-file demo, no fake photos or invented reviews/licence (uses [[NEEDS]]), tel link above the fold on mobile, not the ApexWeb dark/serif-italic look",
+   "files": []},
+  {"id": 3, "name": "cpa-demo-bookings",
+   "prompt": "new client: Lisa Moreno CPA in Delray Beach. small business tax prep, monthly bookkeeping, and help with IRS letters. (561) 555-0193, she's a QuickBooks ProAdvisor. she hates 'stuffy accountant' websites and mainly wants more consult bookings. build me a demo",
+   "expected_output": "single-file demo, consult-booking path obvious + phone, warm non-stuffy direction, AccountingService schema, no invented testimonials",
+   "files": []}
+ ]
+}

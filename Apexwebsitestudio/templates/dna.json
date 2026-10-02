@@ -1,0 +1,13 @@
+{
+ "concept": "artifact · light/dark · display + text · grammar · palette source · signature moment",
+ "artifact": "",
+ "bg": "light | dark", "dark_reason": null,
+ "type": {"display": "", "text": "", "base": "clamp(1rem, 0.95rem + 0.25vw, 1.1875rem)", "ratio": "1.2 → 1.28"},
+ "tokens": {"--bg": "oklch()", "--ink": "oklch()", "--muted": "oklch()", "--line": "oklch()", "--accent": "oklch()", "--accent-ink": "oklch()"},
+ "headline_device": "",
+ "grammar": [],
+ "motion": {"entrance": "", "signature": "", "reduced": "final state, no movement"},
+ "signature_moment": "",
+ "voice": ["", "", ""],
+ "rejected": [{"concept": "", "why": ""}, {"concept": "", "why": ""}]
+}

@@ -1,0 +1,18 @@
+{
+ "mode": "evaluate | demo | build | polish",
+ "business": {
+  "name": "", "trade": "", "city": "", "areas": [],
+  "phone": {"v": "", "source": ""},
+  "services": [{"v": "", "source": ""}],
+  "years": {"v": null, "source": null},
+  "license": {"v": null, "source": null},
+  "reviews": {"rating": null, "count": null, "quotes": [], "source": null},
+  "guarantee": {"v": null, "source": null},
+  "photos": []
+ },
+ "goal": "calls | forms | bookings",
+ "urgency": "emergency | planned",
+ "old_site": "",
+ "assumptions": [],
+ "needs": []
+}
